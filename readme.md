@@ -37,8 +37,6 @@ En el módulo utilidades.py se encuentran definidas dos funciones que serán de 
 
 + En el archivo main.py hay una prueba del funcionamiento de estas funciones
 
-# Iniciamos
-Entonces tripulantes manos a la obra, con la carta de navegación IDEAL y la herramienta Python vamos a trabajar.
 
 
 
